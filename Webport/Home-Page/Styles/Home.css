@@ -1,0 +1,6 @@
+/*Homepage Style for section one*/  
+.section-1 {
+    display: flex;
+    background-color: aqua;
+    padding: 20pt;
+}
